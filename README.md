@@ -22,6 +22,8 @@ https://github.com/brianbonk/Slide-decks/tree/master/2024/2024-05-17 Data Grille
 
 https://github.com/airtank20/Presentations/tree/master/2024/Data Grillen
 
+https://github.com/SQLDBAWithABeard/Presentations/tree/main/2024/DataGrillen
+
 https://sqlserverfast.com/
 Menu option Other / Presentations / Presentation resources
 Find session and click its title
