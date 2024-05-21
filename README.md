@@ -29,3 +29,5 @@ Menu option Other / Presentations / Presentation resources
 Find session and click its title
 Scroll down to where it says "Click here to download ...", and then click on "here".
 Extract downlaoded ZIP file.
+
+https://github.com/NickyvVr/talks/tree/master/slides/2024/20240517%20DataGrillen
