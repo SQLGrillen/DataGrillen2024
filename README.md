@@ -10,6 +10,8 @@ https://bit.ly/fabricgrillen (Introduction to Microsoft Fabric)
 
 https://sqlbob.com/Grillen24
 
+https://github.com/karimourtani/materials
+
 https://github.com/sqlsunday/presentations
 
 https://github.com/marclelijveld/Slide-decks/tree/master/2024/2024-05-17_Data%20Grillen%20-%20Lingen
