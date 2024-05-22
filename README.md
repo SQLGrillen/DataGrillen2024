@@ -24,6 +24,8 @@ https://github.com/airtank20/Presentations/tree/master/2024/Data%20Grillen
 
 https://github.com/SQLDBAWithABeard/Presentations/tree/main/2024/DataGrillen
 
+https://github.com/AbhinavJ-data/Conference-Sessions/tree/33eb02721ff726e566d7168b0da778bc22caaf45/DataGrillen%202024
+
 https://sqlserverfast.com/
 Menu option Other / Presentations / Presentation resources
 Find session and click its title
