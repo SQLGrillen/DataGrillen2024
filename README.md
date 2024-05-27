@@ -14,6 +14,8 @@ https://github.com/karimourtani/materials
 
 https://github.com/sqlsunday/presentations
 
+https://github.com/reitse/Speaking/tree/main/2023%20Infra%20as%20Code
+
 https://github.com/marclelijveld/Slide-decks/tree/master/2024/2024-05-17_Data%20Grillen%20-%20Lingen
 
 https://github.com/AnnaWykes/azure-openai-vs-openai-whats-the-difference
@@ -35,3 +37,5 @@ Scroll down to where it says "Click here to download ...", and then click on "he
 Extract downlaoded ZIP file.
 
 https://github.com/NickyvVr/talks/tree/master/slides/2024/20240517%20DataGrillen
+
+https://www.linkedin.com/pulse/gender-beyond-1-0-resources-els-van-vessem-6mn5f/
