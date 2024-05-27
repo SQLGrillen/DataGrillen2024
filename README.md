@@ -14,6 +14,8 @@ https://github.com/karimourtani/materials
 
 https://github.com/sqlsunday/presentations
 
+https://github.com/antonycatella/Resources/tree/main/DataGrillen
+
 https://github.com/reitse/Speaking/tree/main/2023%20Infra%20as%20Code
 
 https://github.com/marclelijveld/Slide-decks/tree/master/2024/2024-05-17_Data%20Grillen%20-%20Lingen
