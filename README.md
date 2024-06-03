@@ -43,3 +43,5 @@ Extract downlaoded ZIP file.
 https://github.com/NickyvVr/talks/tree/master/slides/2024/20240517%20DataGrillen
 
 https://www.linkedin.com/pulse/gender-beyond-1-0-resources-els-van-vessem-6mn5f/
+
+https://github.com/ScottStauffer/DataGrillen2024
